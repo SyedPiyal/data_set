@@ -1,5 +1,5 @@
 {
-  "culture": [
+ "culture": [
     {"word": "culture", "pronunciation": "কালচার", "meaning": "সংস্কৃতি", "sentence": "We should respect every culture.", "sentence_pronunciation": "উই শুড রিসপেক্ট এভরি কালচার।", "sentence_meaning": "আমরা প্রত্যেক সংস্কৃতিকে সম্মান করা উচিত।"},
     {"word": "tradition", "pronunciation": "ট্র্যাডিশন", "meaning": "ঐতিহ্য", "sentence": "This is a tradition passed down for generations.", "sentence_pronunciation": "দিস ইজ আ ট্র্যাডিশন পাসড ডাউন ফর জেনারেশনস।", "sentence_meaning": "এটি প্রজন্মের পর প্রজন্ম ধরে চলে আসা একটি ঐতিহ্য।"},
     {"word": "heritage", "pronunciation": "হেরিটেজ", "meaning": "ঐতিহ্যবাহী ধন", "sentence": "We must preserve our cultural heritage.", "sentence_pronunciation": "উই মাস্ট প্রিজার্ভ আওয়ার কালচারাল হেরিটেজ।", "sentence_meaning": "আমাদের সাংস্কৃতিক ঐতিহ্য সংরক্ষণ করা উচিত।"},
@@ -15,21 +15,21 @@
     {"word": "folklore", "pronunciation": "ফোকলোর", "meaning": "লোককাহিনি", "sentence": "The folklore of this region is very colorful.", "sentence_pronunciation": "দ্য ফোকলোর অফ দিস রিজিওন ইজ ভেরি কালারফুল।", "sentence_meaning": "এই অঞ্চলের লোককাহিনি অত্যন্ত রঙিন।"},
     {"word": "ceremony", "pronunciation": "সেরিমনি", "meaning": "অনুষ্ঠান", "sentence": "The graduation ceremony was beautiful.", "sentence_pronunciation": "দ্য গ্র্যাজুয়েশন সেরিমনি ওয়াজ বিউটিফুল।", "sentence_meaning": "স্নাতক সমাপ্তির অনুষ্ঠানটি সুন্দর ছিল।"},
     {"word": "identity", "pronunciation": "আইডেন্টিটি", "meaning": "পরিচয়", "sentence": "Culture is a key part of our identity.", "sentence_pronunciation": "কালচার ইজ আ কি পার্ট অফ আওয়ার আইডেন্টিটি।", "sentence_meaning": "সংস্কৃতি আমাদের পরিচয়ের একটি মূল অংশ।"},
-    {"word": "symbol", "pronunciation": "সিম্বল", "meaning": "প্রতীক", "sentence": "The lotus is a symbol of purity in many cultures."},
-    {"word": "myth", "pronunciation": "মিথ", "meaning": "পুরাণ/কথিত কাহিনি", "sentence": "Greek myths are still popular in modern literature."},
-    {"word": "ancestor", "pronunciation": "অ্যানসেস্টর", "meaning": "পূর্বপুরুষ", "sentence": "We honor our ancestors during cultural festivals."},
-    {"word": "costume", "pronunciation": "কস্টিউম", "meaning": "পোশাক", "sentence": "Traditional costumes are worn during the ceremony."},
-    {"word": "music", "pronunciation": "মিউসিক", "meaning": "সঙ্গীত", "sentence": "Music plays a big role in cultural identity."},
-    {"word": "dance", "pronunciation": "ডান্স", "meaning": "নৃত্য", "sentence": "Folk dance is an important part of village culture."},
-    {"word": "language barrier", "pronunciation": "ল্যাঙ্গুয়েজ ব্যারিয়ার", "meaning": "ভাষাগত প্রতিবন্ধকতা", "sentence": "A language barrier can make cultural exchange difficult."},
-    {"word": "hospitality", "pronunciation": "হসপিটালিটি", "meaning": "অতিথি সেবা", "sentence": "Hospitality is a strong value in many Asian cultures."},
-    {"word": "generation", "pronunciation": "জেনারেশন", "meaning": "প্রজন্ম", "sentence": "Each generation adds something new to the culture."},
-    {"word": "multicultural", "pronunciation": "মাল্টিকালচারাল", "meaning": "বহু-সাংস্কৃতিক", "sentence": "Canada is known for its multicultural society."},
-    {"word": "religion", "pronunciation": "রিলিজন", "meaning": "ধর্ম", "sentence": "Religion influences many cultural practices."},
-    {"word": "taboo", "pronunciation": "ট্যাবু", "meaning": "নিষিদ্ধ বিষয়", "sentence": "Discussing money is considered a taboo in some cultures."},
-    {"word": "norm", "pronunciation": "নর্ম", "meaning": "রীতি বা প্রচলিত নিয়ম", "sentence": "Cultural norms vary from country to country."},
-    {"word": "moral", "pronunciation": "মোরাল", "meaning": "নৈতিক", "sentence": "Moral values are passed on through culture."},
-    {"word": "migration", "pronunciation": "মাইগ্রেশন", "meaning": "অভিবাসন", "sentence": "Migration can influence cultural diversity."}
+    {"word": "symbol", "pronunciation": "সিম্বল", "meaning": "প্রতীক", "sentence": "The lotus is a symbol of purity in many cultures.", "sentence_pronunciation": "দ্য লোটাস ইজ আ সিম্বল অফ পিউরিটি ইন মেনি কালচারস।", "sentence_meaning": "শঙ্খ অনেক সংস্কৃতিতে পবিত্রতার প্রতীক।"},
+    {"word": "myth", "pronunciation": "মিথ", "meaning": "পুরাণ/কথিত কাহিনি", "sentence": "Greek myths are still popular in modern literature.", "sentence_pronunciation": "গ্রিক মিথস আর স্টিল পপুলার ইন মডার্ন লিটারেচার।", "sentence_meaning": "গ্রিক পুরাণ আধুনিক সাহিত্যে এখনও জনপ্রিয়।"},
+    {"word": "ancestor", "pronunciation": "অ্যানসেস্টর", "meaning": "পূর্বপুরুষ", "sentence": "We honor our ancestors during cultural festivals.", "sentence_pronunciation": "উই অনর আওয়ার অ্যানসেস্টর্স ডুরিং কালচারাল ফেস্টিভালস।", "sentence_meaning": "আমরা সাংস্কৃতিক উৎসবে আমাদের পূর্বপুরুষদের সম্মান করি।"},
+    {"word": "costume", "pronunciation": "কস্টিউম", "meaning": "পোশাক", "sentence": "Traditional costumes are worn during the ceremony.", "sentence_pronunciation": "ট্র্যাডিশনাল কস্টিউমস আর ওয়র্ন ডুরিং দ্য সেরিমনি।", "sentence_meaning": "অনুষ্ঠানের সময় ঐতিহ্যবাহী পোশাক পরা হয়।"},
+    {"word": "music", "pronunciation": "মিউসিক", "meaning": "সঙ্গীত", "sentence": "Music plays a big role in cultural identity.", "sentence_pronunciation": "মিউসিক প্লেস আ বিগ রোল ইন কালচারাল আইডেন্টিটি।", "sentence_meaning": "সঙ্গীত সাংস্কৃতিক পরিচয়ে একটি বড় ভূমিকা পালন করে।"},
+    {"word": "dance", "pronunciation": "ডান্স", "meaning": "নৃত্য", "sentence": "Folk dance is an important part of village culture.", "sentence_pronunciation": "ফোক ডান্স ইজ এন ইম্পর্ট্যান্ট পার্ট অফ ভিলেজ কালচার।", "sentence_meaning": "গ্রামীণ সংস্কৃতির একটি গুরুত্বপূর্ণ অংশ হলো লোকনৃত্য।"},
+    {"word": "language barrier", "pronunciation": "ল্যাঙ্গুয়েজ ব্যারিয়ার", "meaning": "ভাষাগত প্রতিবন্ধকতা", "sentence": "A language barrier can make cultural exchange difficult.", "sentence_pronunciation": "আ ল্যাঙ্গুয়েজ ব্যারিয়ার ক্যান মেক কালচারাল এক্সচেঞ্জ ডিফিকাল্ট।", "sentence_meaning": "ভাষাগত প্রতিবন্ধকতা সাংস্কৃতিক বিনিময়কে কঠিন করতে পারে।"},
+    {"word": "hospitality", "pronunciation": "হসপিটালিটি", "meaning": "অতিথি সেবা", "sentence": "Hospitality is a strong value in many Asian cultures.", "sentence_pronunciation": "হসপিটালিটি ইজ আ স্ট্রং ভ্যালু ইন মেনি এশিয়ান কালচারস।", "sentence_meaning": "অনেক এশিয়ান সংস্কৃতিতে অতিথি সেবা একটি দৃঢ় মূল্যবোধ।"},
+    {"word": "generation", "pronunciation": "জেনারেশন", "meaning": "প্রজন্ম", "sentence": "Each generation adds something new to the culture.", "sentence_pronunciation": "ইচ জেনারেশন অ্যাডস সামথিং নিউ টু দ্য কালচার।", "sentence_meaning": "প্রতিটি প্রজন্ম সংস্কৃতিতে কিছু নতুন যোগ করে।"},
+    {"word": "multicultural", "pronunciation": "মাল্টিকালচারাল", "meaning": "বহু-সাংস্কৃতিক", "sentence": "Canada is known for its multicultural society.", "sentence_pronunciation": "কানাডা ইজ নাউন ফর ইটস মাল্টিকালচারাল সোসাইটি।", "sentence_meaning": "কানাডা তার বহুসাংস্কৃতিক সমাজের জন্য পরিচিত।"},
+    {"word": "religion", "pronunciation": "রিলিজন", "meaning": "ধর্ম", "sentence": "Religion influences many cultural practices.", "sentence_pronunciation": "রিলিজন ইনফ্লুয়েন্সেস মেনি কালচারাল প্র্যাকটিসেস।", "sentence_meaning": "ধর্ম অনেক সাংস্কৃতিক প্রথাকে প্রভাবিত করে।"},
+    {"word": "taboo", "pronunciation": "ট্যাবু", "meaning": "নিষিদ্ধ বিষয়", "sentence": "Discussing money is considered a taboo in some cultures.", "sentence_pronunciation": "ডিসকাশিং মানি ইজ কনসিডার্ড আ ট্যাবু ইন সাম কালচারস।", "sentence_meaning": "কিছু সংস্কৃতিতে টাকা নিয়ে আলোচনা করা নিষিদ্ধ বিষয় মনে হয়।"},
+    {"word": "norm", "pronunciation": "নর্ম", "meaning": "রীতি বা প্রচলিত নিয়ম", "sentence": "Cultural norms vary from country to country.", "sentence_pronunciation": "কালচারাল নর্মস ভ্যারী ফ্রম কান্ট্রি টু কান্ট্রি।", "sentence_meaning": "সাংস্কৃতিক রীতি দেশভেদে ভিন্ন হয়।"},
+    {"word": "moral", "pronunciation": "মোরাল", "meaning": "নৈতিক", "sentence": "Moral values are passed on through culture.", "sentence_pronunciation": "মোরাল ভ্যালুজ আর পাসড অন থ্রু কালচার।", "sentence_meaning": "নৈতিক মূল্যবোধ সংস্কৃতির মাধ্যমে প্রেরিত হয়।"},
+    {"word": "migration", "pronunciation": "মাইগ্রেশন", "meaning": "অভিবাসন", "sentence": "Migration can influence cultural diversity.", "sentence_pronunciation": "মাইগ্রেশন ক্যান ইনফ্লুয়েন্স কালচারাল ডাইভার্সিটি।", "sentence_meaning": "অভিবাসন সাংস্কৃতিক বৈচিত্র্যে প্রভাব ফেলতে পারে।"}
   ],
 
  "education_learning": [
