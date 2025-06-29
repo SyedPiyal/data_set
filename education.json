@@ -1,5 +1,5 @@
 {
- "education_learning": [
+ "education": [
     {"word": "assignments", "pronunciation": "অ্যাসাইনমেন্টস", "meaning": "কাজ বা নিয়োগ", "sentence": "I finished my assignments.", "sentence_pronunciation": "আই ফিনিশড মাই অ্যাসাইনমেন্টস।", "sentence_meaning": "আমি আমার কাজ শেষ করেছি।"},
     {"word": "blackboard", "pronunciation": "ব্ল্যাকবোর্ড", "meaning": "তক্তা", "sentence": "The teacher wrote on the blackboard.", "sentence_pronunciation": "দ্য টিচার রোট অন দ্য ব্ল্যাকবোর্ড।", "sentence_meaning": "শিক্ষক তক্তায় লিখলেন।"},
     {"word": "book", "pronunciation": "বুক", "meaning": "বই", "sentence": "I borrowed a book from the library.", "sentence_pronunciation": "আই বোরোড আ বুক ফ্রম দ্য লাইব্রেরি।", "sentence_meaning": "আমি লাইব্রেরি থেকে একটি বই ধার নিয়েছি।"},
