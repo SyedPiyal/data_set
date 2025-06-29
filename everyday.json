@@ -1,5 +1,5 @@
 {
-"everyday_life": [
+"everyday": [
     {"word": "alarm", "pronunciation": "আলার্ম", "meaning": "ঘড়ির এলার্ম", "sentence": "I set the alarm for 6 a.m.", "sentence_pronunciation": "আই সেট দ্য আলার্ম ফর সিক্স এ এম।", "sentence_meaning": "আমি সকাল ৬টার জন্য এলার্ম সেট করি।"},
     {"word": "commute", "pronunciation": "কমিউট", "meaning": "যাতায়াত করা", "sentence": "I commute to work by bus.", "sentence_pronunciation": "আই কমিউট টু ওয়ার্ক বাই বাস।", "sentence_meaning": "আমি বাসে কাজের জন্য যাতায়াত করি।"},
     {"word": "deadline", "pronunciation": "ডেডলাইন", "meaning": "শেষ সময়সীমা", "sentence": "The deadline for the project is tomorrow.", "sentence_pronunciation": "দ্য ডেডলাইন ফর দ্য প্রজেক্ট ইজ টুমরো।", "sentence_meaning": "প্রকল্পের শেষ সময়সীমা আগামীকাল।"},
