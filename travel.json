@@ -1,4 +1,4 @@
-{"travel_places": [
+{"travel": [
     {"word": "airport", "pronunciation": "এয়ারপোর্ট", "meaning": "বিমানবন্দর", "sentence": "We arrived at the airport early.", "sentence_pronunciation": "উই অ্যারাইভড অ্যাট দ্য এয়ারপোর্ট আর্লি।", "sentence_meaning": "আমরা বিমানবন্দরে আগে পৌঁছেছি।"},
     {"word": "bridge", "pronunciation": "ব্রিজ", "meaning": "সেতু", "sentence": "The bridge connects two cities.", "sentence_pronunciation": "দ্য ব্রিজ কানেক্টস টু সিটিজ।", "sentence_meaning": "সেতুটি দুটি শহরকে যুক্ত করে।"},
     {"word": "camp", "pronunciation": "ক্যাম্প", "meaning": "শিবির", "sentence": "We set up a camp near the lake.", "sentence_pronunciation": "উই সেট আপ আ ক্যাম্প নিঅর দ্য লেক।", "sentence_meaning": "আমরা হ্রদের কাছে একটি শিবির স্থাপন করেছি।"},
