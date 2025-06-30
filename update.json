@@ -809,7 +809,7 @@
 {"word": "stop", "pronunciation": "স্টপ", "meaning": "থামানো", "sentence": "Please stop talking.", "sentence_pronunciation": "প্লিজ স্টপ টকিং", "sentence_meaning": "দয়া করে কথা বলা বন্ধ করুন।"},
 
 
-    {"word": "story", "pronunciation": "স্টোরি", "meaning": "গল্প", "sentence": "I love reading a good story.", "sentence_pronunciation": "আই লাভ রিডিং আ গুড স্টোরি", "sentence_meaning": "আমি একটি ভাল গল্প পড়তে পছন্দ করি।"},
+{"word": "story", "pronunciation": "স্টোরি", "meaning": "গল্প", "sentence": "I love reading a good story.", "sentence_pronunciation": "আই লাভ রিডিং আ গুড স্টোরি", "sentence_meaning": "আমি একটি ভাল গল্প পড়তে পছন্দ করি।"},
 {"word": "straight", "pronunciation": "স্ট্রেইট", "meaning": "সোজা", "sentence": "Keep going straight ahead.", "sentence_pronunciation": "কিপ গোইং স্ট্রেইট আহেড", "sentence_meaning": "সোজা এগিয়ে চলুন।"},
 {"word": "strategy", "pronunciation": "স্ট্রাটেজি", "meaning": "কৌশল", "sentence": "We need a clear strategy.", "sentence_pronunciation": "উই নিড আ ক্লিয়ার স্ট্রাটেজি", "sentence_meaning": "আমাদের একটি স্পষ্ট কৌশল প্রয়োজন।"},
 {"word": "street", "pronunciation": "স্ট্রিট", "meaning": "রাস্তা", "sentence": "She lives on the next street.", "sentence_pronunciation": "শি লিভস অন দ্য নেক্সট স্ট্রিট", "sentence_meaning": "সে পরবর্তী রাস্তায় বাস করে।"},
@@ -843,7 +843,7 @@
 {"word": "tax", "pronunciation": "ট্যাক্স", "meaning": "কর", "sentence": "We need to pay our taxes.", "sentence_pronunciation": "উই নিড টু পে আওয়ার ট্যাক্সেস", "sentence_meaning": "আমাদের ট্যাক্স দিতে হবে।"},
 
 
-    {"word": "tea", "pronunciation": "টি", "meaning": "চা", "sentence": "Would you like some tea?", "sentence_pronunciation": "উড ইউ লাইক সাম টি", "sentence_meaning": "তুমি কি কিছু চা চাও?"},
+{"word": "tea", "pronunciation": "টি", "meaning": "চা", "sentence": "Would you like some tea?", "sentence_pronunciation": "উড ইউ লাইক সাম টি", "sentence_meaning": "তুমি কি কিছু চা চাও?"},
 {"word": "teach", "pronunciation": "টিচ", "meaning": "শিক্ষা দেওয়া", "sentence": "I will teach you how to swim.", "sentence_pronunciation": "আই উইল টিচ ইউ হাও টু সুইম", "sentence_meaning": "আমি তোমাকে সাঁতার কাটা শিখাব।"},
 {"word": "team", "pronunciation": "টিম", "meaning": "দল", "sentence": "We are part of the same team.", "sentence_pronunciation": "উই আর পার্ট অফ দ্য সেম টিম", "sentence_meaning": "আমরা একই দলের অংশ।"},
 {"word": "telephone", "pronunciation": "টেলিফোন", "meaning": "টেলিফোন", "sentence": "Please answer the telephone.", "sentence_pronunciation": "প্লিজ আন্সার দ্য টেলিফোন", "sentence_meaning": "দয়া করে টেলিফোনটি তুলুন।"},
@@ -934,7 +934,7 @@
 {"word": "wrong", "pronunciation": "রং", "meaning": "ভুল", "sentence": "That answer is wrong.", "sentence_pronunciation": "দ্যাট আনসার ইজ রং", "sentence_meaning": "সেটি ভুল উত্তর।"},
 
 
-   {"word": "your", "pronunciation": "ইউর", "meaning": "তোমার", "sentence": "What is your name?", "sentence_pronunciation": "হোয়াট ইজ ইয়োর নেম?", "sentence_meaning": "তোমার নাম কী?"}, 
+{"word": "your", "pronunciation": "ইউর", "meaning": "তোমার", "sentence": "What is your name?", "sentence_pronunciation": "হোয়াট ইজ ইয়োর নেম?", "sentence_meaning": "তোমার নাম কী?"}, 
 {"word": "under", "pronunciation": "আন্ডার", "meaning": "নিচে", "sentence": "The cat is under the table.", "sentence_pronunciation": "দ্য ক্যাট ইজ আন্ডার দ্য টেবল", "sentence_meaning": "বিড়ালটি টেবিলের নিচে রয়েছে।"}, 
 {"word": "understand", "pronunciation": "আন্ডারস্ট্যান্ড", "meaning": "বুঝতে", "sentence": "I understand your point.", "sentence_pronunciation": "আই আন্ডারস্ট্যান্ড ইয়োর পয়েন্ট", "sentence_meaning": "আমি তোমার কথা বুঝতে পারি।"}, 
 {"word": "union", "pronunciation": "ইউনিয়ন", "meaning": "সংঘ", "sentence": "The workers formed a union.", "sentence_pronunciation": "দ্য ওয়ার্কারস ফর্মড আ ইউনিয়ন", "sentence_meaning": "কর্মীরা একটি সংঘ গঠন করেছে।"}, 
@@ -968,57 +968,57 @@
 {"word": "water", "pronunciation": "ওয়াটার", "meaning": "পানি", "sentence": "Drink plenty of water.", "sentence_pronunciation": "ড্রিঙ্ক প্লেনটি অফ ওয়াটার", "sentence_meaning": "প্রচুর পানি পান করো।"},
 
 
-   {"word": "way", "pronunciation": "ওয়ে", "meaning": "পন্থা", "sentence": "What way should we go?", "sentence_pronunciation": "হোয়াট ওয়ে শুড উই গো?", "sentence_meaning": "আমরা কোন পথে যাব?"}
-{"word": "we", "pronunciation": "উই", "meaning": "আমরা", "sentence": "We are going to the park.", "sentence_pronunciation": "উই আর গোয়িং টু দ্য পার্ক", "sentence_meaning": "আমরা পার্কে যাচ্ছি।"}
-{"word": "wear", "pronunciation": "ওয়্যার", "meaning": "পরা", "sentence": "I like to wear casual clothes.", "sentence_pronunciation": "আই লাইক টু ওয়্যার ক্যাজুয়াল ক্লোথস", "sentence_meaning": "আমি ক্যাজুয়াল পোশাক পরতে পছন্দ করি।"}
-{"word": "wednesday", "pronunciation": "ওয়েনসডে", "meaning": "বুধবার", "sentence": "Wednesday is my favorite day.", "sentence_pronunciation": "ওয়েনসডে ইজ মাই ফেভারিট ডে", "sentence_meaning": "বুধবার আমার প্রিয় দিন।"}
-{"word": "wee", "pronunciation": "উই", "meaning": "ছোট", "sentence": "He is a wee bit shy.", "sentence_pronunciation": "হি ইজ আ উই বিট শাই", "sentence_meaning": "সে একটু লাজুক।"}
-{"word": "week", "pronunciation": "উইক", "meaning": "সপ্তাহ", "sentence": "I work five days a week.", "sentence_pronunciation": "আই ওয়ার্ক ফাইভ ডেজ আ উইক", "sentence_meaning": "আমি সপ্তাহে পাঁচ দিন কাজ করি।"}
-{"word": "weigh", "pronunciation": "ওয়েট", "meaning": "ওজন করা", "sentence": "I need to weigh myself.", "sentence_pronunciation": "আই নিড টু ওয়েট মাইসেলফ", "sentence_meaning": "আমাকে আমার ওজন করতে হবে।"}
-{"word": "welcome", "pronunciation": "ওয়েলকাম", "meaning": "স্বাগতম", "sentence": "Welcome to my home.", "sentence_pronunciation": "ওয়েলকাম টু মাই হোম", "sentence_meaning": "আমার বাড়িতে স্বাগতম।"}
-{"word": "well", "pronunciation": "ওয়েল", "meaning": "ভাল", "sentence": "I am doing well.", "sentence_pronunciation": "আই অ্যাম ডুয়িং ওয়েল", "sentence_meaning": "আমি ভাল আছি।"}
-{"word": "west", "pronunciation": "ওয়েস্ট", "meaning": "পশ্চিম", "sentence": "The sun sets in the west.", "sentence_pronunciation": "দ্য সান সেতস ইন দ্য ওয়েস্ট", "sentence_meaning": "সূর্য পশ্চিমে ডুবে যায়।"}
-{"word": "what", "pronunciation": "হোয়াট", "meaning": "কি", "sentence": "What is your name?", "sentence_pronunciation": "হোয়াট ইজ ইয়োর নেম?", "sentence_meaning": "তোমার নাম কি?"}
-{"word": "when", "pronunciation": "হোয়েন", "meaning": "কখন", "sentence": "When will you arrive?", "sentence_pronunciation": "হোয়েন উইল ইউ অ্যারাইভ?", "sentence_meaning": "তুমি কখন আসবে?"}
-{"word": "where", "pronunciation": "হোয়্যার", "meaning": "কোথায়", "sentence": "Where is the nearest station?", "sentence_pronunciation": "হোয়্যার ইজ দ্য নিঅরেস্ট স্টেশন?", "sentence_meaning": "নিকটস্থ স্টেশন কোথায়?"}
-{"word": "whether", "pronunciation": "হোয়েদার", "meaning": "যদি", "sentence": "I don't know whether to go.", "sentence_pronunciation": "আই ডোন্ট নো হোয়েদার টু গো", "sentence_meaning": "আমি জানি না যেতে হবে কি না।"}
-{"word": "which", "pronunciation": "হুইচ", "meaning": "কোন", "sentence": "Which book do you prefer?", "sentence_pronunciation": "হুইচ বুক ডু ইউ প্রিফার?", "sentence_meaning": "তুমি কোন বইটি পছন্দ করো?"}
-{"word": "while", "pronunciation": "হুইল", "meaning": "যখন", "sentence": "While you were sleeping, I cleaned.", "sentence_pronunciation": "হুইল ইউ ওয়ার স্লিপিং, আই ক্লিনড.", "sentence_meaning": "তুমি ঘুমাচ্ছিলে, আমি পরিষ্কার করেছিলাম।"}
-{"word": "white", "pronunciation": "হোয়াইট", "meaning": "সাদা", "sentence": "She wore a white dress.", "sentence_pronunciation": "শি ওর আ হোয়াইট ড্রেস", "sentence_meaning": "সে একটি সাদা পোশাক পরেছিল।"}
-{"word": "who", "pronunciation": "হু", "meaning": "কে", "sentence": "Who is your friend?", "sentence_pronunciation": "হু ইজ ইয়োর ফ্রেন্ড?", "sentence_meaning": "তোমার বন্ধু কে?"}
-{"word": "whole", "pronunciation": "হোল", "meaning": "পূর্ণ", "sentence": "The whole class attended.", "sentence_pronunciation": "দ্য হোল ক্লাস অ্যাটেনডেড", "sentence_meaning": "সম্পূর্ণ ক্লাস উপস্থিত ছিল।"}
-{"word": "why", "pronunciation": "হোয়", "meaning": "কেন", "sentence": "Why are you late?", "sentence_pronunciation": "হোয় আর ইউ লেট?", "sentence_meaning": "তুমি কেন দেরি করলে?"}
-{"word": "wide", "pronunciation": "ওয়াইড", "meaning": "প্রশস্ত", "sentence": "The river is wide.", "sentence_pronunciation": "দ্য রিভার ইজ ওয়াইড", "sentence_meaning": "নদীটি প্রশস্ত।"}
-{"word": "wife", "pronunciation": "ওয়াইফ", "meaning": "স্ত্রী", "sentence": "My wife is a teacher.", "sentence_pronunciation": "মাই ওয়াইফ ইজ আ টিচার", "sentence_meaning": "আমার স্ত্রী একজন শিক্ষক।"}
-{"word": "will", "pronunciation": "উইল", "meaning": "হবে", "sentence": "I will call you tomorrow.", "sentence_pronunciation": "আই উইল কল ইউ টুমোরো", "sentence_meaning": "আমি তোমাকে কাল ফোন করব।"}
+{"word": "way", "pronunciation": "ওয়ে", "meaning": "পন্থা", "sentence": "What way should we go?", "sentence_pronunciation": "হোয়াট ওয়ে শুড উই গো?", "sentence_meaning": "আমরা কোন পথে যাব?"},
+{"word": "we", "pronunciation": "উই", "meaning": "আমরা", "sentence": "We are going to the park.", "sentence_pronunciation": "উই আর গোয়িং টু দ্য পার্ক", "sentence_meaning": "আমরা পার্কে যাচ্ছি।"},
+{"word": "wear", "pronunciation": "ওয়্যার", "meaning": "পরা", "sentence": "I like to wear casual clothes.", "sentence_pronunciation": "আই লাইক টু ওয়্যার ক্যাজুয়াল ক্লোথস", "sentence_meaning": "আমি ক্যাজুয়াল পোশাক পরতে পছন্দ করি।"},
+{"word": "wednesday", "pronunciation": "ওয়েনসডে", "meaning": "বুধবার", "sentence": "Wednesday is my favorite day.", "sentence_pronunciation": "ওয়েনসডে ইজ মাই ফেভারিট ডে", "sentence_meaning": "বুধবার আমার প্রিয় দিন।"},
+{"word": "wee", "pronunciation": "উই", "meaning": "ছোট", "sentence": "He is a wee bit shy.", "sentence_pronunciation": "হি ইজ আ উই বিট শাই", "sentence_meaning": "সে একটু লাজুক।"},
+{"word": "week", "pronunciation": "উইক", "meaning": "সপ্তাহ", "sentence": "I work five days a week.", "sentence_pronunciation": "আই ওয়ার্ক ফাইভ ডেজ আ উইক", "sentence_meaning": "আমি সপ্তাহে পাঁচ দিন কাজ করি।"},
+{"word": "weigh", "pronunciation": "ওয়েট", "meaning": "ওজন করা", "sentence": "I need to weigh myself.", "sentence_pronunciation": "আই নিড টু ওয়েট মাইসেলফ", "sentence_meaning": "আমাকে আমার ওজন করতে হবে।"},
+{"word": "welcome", "pronunciation": "ওয়েলকাম", "meaning": "স্বাগতম", "sentence": "Welcome to my home.", "sentence_pronunciation": "ওয়েলকাম টু মাই হোম", "sentence_meaning": "আমার বাড়িতে স্বাগতম।"},
+{"word": "well", "pronunciation": "ওয়েল", "meaning": "ভাল", "sentence": "I am doing well.", "sentence_pronunciation": "আই অ্যাম ডুয়িং ওয়েল", "sentence_meaning": "আমি ভাল আছি।"},
+{"word": "west", "pronunciation": "ওয়েস্ট", "meaning": "পশ্চিম", "sentence": "The sun sets in the west.", "sentence_pronunciation": "দ্য সান সেতস ইন দ্য ওয়েস্ট", "sentence_meaning": "সূর্য পশ্চিমে ডুবে যায়।"},
+{"word": "what", "pronunciation": "হোয়াট", "meaning": "কি", "sentence": "What is your name?", "sentence_pronunciation": "হোয়াট ইজ ইয়োর নেম?", "sentence_meaning": "তোমার নাম কি?"},
+{"word": "when", "pronunciation": "হোয়েন", "meaning": "কখন", "sentence": "When will you arrive?", "sentence_pronunciation": "হোয়েন উইল ইউ অ্যারাইভ?", "sentence_meaning": "তুমি কখন আসবে?"},
+{"word": "where", "pronunciation": "হোয়্যার", "meaning": "কোথায়", "sentence": "Where is the nearest station?", "sentence_pronunciation": "হোয়্যার ইজ দ্য নিঅরেস্ট স্টেশন?", "sentence_meaning": "নিকটস্থ স্টেশন কোথায়?"},
+{"word": "whether", "pronunciation": "হোয়েদার", "meaning": "যদি", "sentence": "I don't know whether to go.", "sentence_pronunciation": "আই ডোন্ট নো হোয়েদার টু গো", "sentence_meaning": "আমি জানি না যেতে হবে কি না।"},
+{"word": "which", "pronunciation": "হুইচ", "meaning": "কোন", "sentence": "Which book do you prefer?", "sentence_pronunciation": "হুইচ বুক ডু ইউ প্রিফার?", "sentence_meaning": "তুমি কোন বইটি পছন্দ করো?"},
+{"word": "while", "pronunciation": "হুইল", "meaning": "যখন", "sentence": "While you were sleeping, I cleaned.", "sentence_pronunciation": "হুইল ইউ ওয়ার স্লিপিং, আই ক্লিনড.", "sentence_meaning": "তুমি ঘুমাচ্ছিলে, আমি পরিষ্কার করেছিলাম।"},
+{"word": "white", "pronunciation": "হোয়াইট", "meaning": "সাদা", "sentence": "She wore a white dress.", "sentence_pronunciation": "শি ওর আ হোয়াইট ড্রেস", "sentence_meaning": "সে একটি সাদা পোশাক পরেছিল।"},
+{"word": "who", "pronunciation": "হু", "meaning": "কে", "sentence": "Who is your friend?", "sentence_pronunciation": "হু ইজ ইয়োর ফ্রেন্ড?", "sentence_meaning": "তোমার বন্ধু কে?"},
+{"word": "whole", "pronunciation": "হোল", "meaning": "পূর্ণ", "sentence": "The whole class attended.", "sentence_pronunciation": "দ্য হোল ক্লাস অ্যাটেনডেড", "sentence_meaning": "সম্পূর্ণ ক্লাস উপস্থিত ছিল।"},
+{"word": "why", "pronunciation": "হোয়", "meaning": "কেন", "sentence": "Why are you late?", "sentence_pronunciation": "হোয় আর ইউ লেট?", "sentence_meaning": "তুমি কেন দেরি করলে?"},
+{"word": "wide", "pronunciation": "ওয়াইড", "meaning": "প্রশস্ত", "sentence": "The river is wide.", "sentence_pronunciation": "দ্য রিভার ইজ ওয়াইড", "sentence_meaning": "নদীটি প্রশস্ত।"},
+{"word": "wife", "pronunciation": "ওয়াইফ", "meaning": "স্ত্রী", "sentence": "My wife is a teacher.", "sentence_pronunciation": "মাই ওয়াইফ ইজ আ টিচার", "sentence_meaning": "আমার স্ত্রী একজন শিক্ষক।"},
+{"word": "will", "pronunciation": "উইল", "meaning": "হবে", "sentence": "I will call you tomorrow.", "sentence_pronunciation": "আই উইল কল ইউ টুমোরো", "sentence_meaning": "আমি তোমাকে কাল ফোন করব।"},
 {"word": "win", "pronunciation": "উইন", "meaning": "জয়", "sentence": "I hope we will win the game.", "sentence_pronunciation": "আই হোপ উই উইল উইন দ্য গেম", "sentence_meaning": "আমি আশা করি আমরা খেলা জিতব।"},
 
 
-    {"word": "wind", "pronunciation": "উইন্ড", "meaning": "বাতাস", "sentence": "The wind is blowing.", "sentence_pronunciation": "দ্য উইন্ড ইজ ব্লোইং", "sentence_meaning": "বাতাস বইছে।"}
-{"word": "window", "pronunciation": "উইন্ডো", "meaning": "জানালা", "sentence": "Close the window, please.", "sentence_pronunciation": "ক্লোজ দ্য উইন্ডো, প্লিজ", "sentence_meaning": "দয়া করে জানালা বন্ধ করুন।"}
-{"word": "wish", "pronunciation": "উইশ", "meaning": "কামনা", "sentence": "I wish you all the best.", "sentence_pronunciation": "আই উইশ ইউ অল দ্য বেস্ট", "sentence_meaning": "আমি তোমার জন্য সব শুভ কামনা করি।"}
-{"word": "with", "pronunciation": "উইথ", "meaning": "সঙ্গে", "sentence": "I am going with you.", "sentence_pronunciation": "আই অ্যাম গোইং উইথ ইউ", "sentence_meaning": "আমি তোমার সাথে যাচ্ছি।"}
-{"word": "within", "pronunciation": "উইদিন", "meaning": "মধ্যে", "sentence": "Stay within the limits.", "sentence_pronunciation": "স্টে উইদিন দ্য লিমিটস", "sentence_meaning": "সীমার মধ্যে থাকো।"}
-{"word": "without", "pronunciation": "উইদাউট", "meaning": "ছাড়া", "sentence": "I can't live without you.", "sentence_pronunciation": "আই ক্যান't লিভ উইদাউট ইউ", "sentence_meaning": "আমি তোমার ছাড়া বাঁচতে পারি না।"}
-{"word": "woman", "pronunciation": "ওম্যান", "meaning": "মহিলা", "sentence": "She is a strong woman.", "sentence_pronunciation": "শি ইজ আ স্ট্রং ওম্যান", "sentence_meaning": "সে একজন শক্তিশালী মহিলা।"}
-{"word": "wonder", "pronunciation": "ওয়ান্ডার", "meaning": "আশ্চর্য", "sentence": "I wonder what he is doing.", "sentence_pronunciation": "আই ওয়ান্ডার হোয়াট হি ইজ ডুইং", "sentence_meaning": "আমি আশ্চর্য হচ্ছি সে কী করছে।"}
-{"word": "wood", "pronunciation": "উড", "meaning": "কাঠ", "sentence": "The table is made of wood.", "sentence_pronunciation": "দ্য টেবিল ইজ মেইড অফ উড", "sentence_meaning": "টেবিলটি কাঠ দিয়ে তৈরি।"}
-{"word": "word", "pronunciation": "ওয়ার্ড", "meaning": "শব্দ", "sentence": "Can you spell that word?", "sentence_pronunciation": "ক্যান ইউ স্পেল দ্যাট ওয়ার্ড?", "sentence_meaning": "তুমি কি ওই শব্দটি বানান করতে পারো?"}
-{"word": "work", "pronunciation": "ওয়ার্ক", "meaning": "কাজ", "sentence": "I need to work on my project.", "sentence_pronunciation": "আই নিড টু ওয়ার্ক অন মাই প্রজেক্ট", "sentence_meaning": "আমাকে আমার প্রকল্পে কাজ করতে হবে।"}
-{"word": "world", "pronunciation": "ওয়ার্ল্ড", "meaning": "বিশ্ব", "sentence": "The world is a beautiful place.", "sentence_pronunciation": "দ্য ওয়ার্ল্ড ইজ আ বিউটিফুল প্লেস", "sentence_meaning": "বিশ্বটি একটি সুন্দর স্থান।"}
-{"word": "worry", "pronunciation": "ওয়ারি", "meaning": "চিন্তা করা", "sentence": "Don't worry about the exam.", "sentence_pronunciation": "ডোন্ট ওয়ারি অ্যাবাউট দ্য এক্সাম", "sentence_meaning": "পরীক্ষা নিয়ে চিন্তা করো না।"}
-{"word": "worse", "pronunciation": "ওয়ার্স", "meaning": "খারাপ", "sentence": "Things could be worse.", "sentence_pronunciation": "থিংস কুড বি ওয়ার্স", "sentence_meaning": "কিছু খারাপ হতে পারে।"}
-{"word": "worth", "pronunciation": "ওয়ার্থ", "meaning": "মূল্য", "sentence": "This painting is worth a lot.", "sentence_pronunciation": "দিস পেইন্টিং ইজ ওয়ার্থ আ লট", "sentence_meaning": "এই চিত্রকর্মটির অনেক মূল্য আছে।"}
-{"word": "would", "pronunciation": "উড", "meaning": "হত", "sentence": "I would love to visit Paris.", "sentence_pronunciation": "আই উড লাভ টু ভিজিট প্যারিস", "sentence_meaning": "আমি প্যারিস পরিদর্শন করতে খুব ভালোবাসি।"}
-{"word": "write", "pronunciation": "রাইট", "meaning": "লেখা", "sentence": "Please write your name here.", "sentence_pronunciation": "প্লিজ রাইট ইয়োর নেম হেয়ার", "sentence_meaning": "দয়া করে তোমার নাম এখানে লিখো।"}
-{"word": "wrong", "pronunciation": "রং", "meaning": "ভুল", "sentence": "I think I took the wrong turn.", "sentence_pronunciation": "আই থিঙ্ক আই টুক দ্য রং টার্ন", "sentence_meaning": "আমি মনে করি আমি ভুল পথ নিলাম।"}
-{"word": "year", "pronunciation": "ইয়ার", "meaning": "বছর", "sentence": "This year has been challenging.", "sentence_pronunciation": "দিস ইয়ার হ্যাজ বি ইন চ্যালেঞ্জিং", "sentence_meaning": "এই বছরটি চ্যালেঞ্জিং ছিল।"}
-{"word": "yes", "pronunciation": "ইয়েস", "meaning": "হ্যাঁ", "sentence": "Yes, I agree with you.", "sentence_pronunciation": "ইয়েস, আই অ্যাগ্রি উইথ ইউ", "sentence_meaning": "হ্যাঁ, আমি তোমার সাথে একমত।"}
-{"word": "yesterday", "pronunciation": "যেস্টারডে", "meaning": "গতকাল", "sentence": "I met him yesterday.", "sentence_pronunciation": "আই মেট হিম ইয়েস্টারডে", "sentence_meaning": "আমি তাকে গতকাল দেখেছি।"}
-{"word": "yet", "pronunciation": "ইয়েট", "meaning": "এখনও", "sentence": "I haven't finished yet.", "sentence_pronunciation": "আই হ্যাভেন্ট ফিনিশড ইয়েট", "sentence_meaning": "আমি এখনও শেষ করিনি।"}
-{"word": "you", "pronunciation": "আপনি", "meaning": "আপনি", "sentence": "You are very kind.", "sentence_pronunciation": "ইউ আর ভেরি কাইন্ড", "sentence_meaning": "তুমি খুব সদয়।"}
-{"word": "young", "pronunciation": "ইয়াং", "meaning": "তরুণ", "sentence": "She is very young.", "sentence_pronunciation": "শি ইজ ভেরি ইয়াং", "sentence_meaning": "সে খুব তরুণ।"}
-{"word": "yellow", "pronunciation": "ইয়েলো", "meaning": "হলুদ", "sentence": "She wore a bright yellow dress.", "sentence_pronunciation": "শি ওর আ ব্রাইট ইয়েলো ড্রেস", "sentence_meaning": "সে একটি উজ্জ্বল হলুদ পোশাক পরেছিল।"}
+{"word": "wind", "pronunciation": "উইন্ড", "meaning": "বাতাস", "sentence": "The wind is blowing.", "sentence_pronunciation": "দ্য উইন্ড ইজ ব্লোইং", "sentence_meaning": "বাতাস বইছে।"},
+{"word": "window", "pronunciation": "উইন্ডো", "meaning": "জানালা", "sentence": "Close the window, please.", "sentence_pronunciation": "ক্লোজ দ্য উইন্ডো, প্লিজ", "sentence_meaning": "দয়া করে জানালা বন্ধ করুন।"},
+{"word": "wish", "pronunciation": "উইশ", "meaning": "কামনা", "sentence": "I wish you all the best.", "sentence_pronunciation": "আই উইশ ইউ অল দ্য বেস্ট", "sentence_meaning": "আমি তোমার জন্য সব শুভ কামনা করি।"},
+{"word": "with", "pronunciation": "উইথ", "meaning": "সঙ্গে", "sentence": "I am going with you.", "sentence_pronunciation": "আই অ্যাম গোইং উইথ ইউ", "sentence_meaning": "আমি তোমার সাথে যাচ্ছি।"},
+{"word": "within", "pronunciation": "উইদিন", "meaning": "মধ্যে", "sentence": "Stay within the limits.", "sentence_pronunciation": "স্টে উইদিন দ্য লিমিটস", "sentence_meaning": "সীমার মধ্যে থাকো।"},
+{"word": "without", "pronunciation": "উইদাউট", "meaning": "ছাড়া", "sentence": "I can't live without you.", "sentence_pronunciation": "আই ক্যান't লিভ উইদাউট ইউ", "sentence_meaning": "আমি তোমার ছাড়া বাঁচতে পারি না।"},
+{"word": "woman", "pronunciation": "ওম্যান", "meaning": "মহিলা", "sentence": "She is a strong woman.", "sentence_pronunciation": "শি ইজ আ স্ট্রং ওম্যান", "sentence_meaning": "সে একজন শক্তিশালী মহিলা।"},
+{"word": "wonder", "pronunciation": "ওয়ান্ডার", "meaning": "আশ্চর্য", "sentence": "I wonder what he is doing.", "sentence_pronunciation": "আই ওয়ান্ডার হোয়াট হি ইজ ডুইং", "sentence_meaning": "আমি আশ্চর্য হচ্ছি সে কী করছে।"},
+{"word": "wood", "pronunciation": "উড", "meaning": "কাঠ", "sentence": "The table is made of wood.", "sentence_pronunciation": "দ্য টেবিল ইজ মেইড অফ উড", "sentence_meaning": "টেবিলটি কাঠ দিয়ে তৈরি।"},
+{"word": "word", "pronunciation": "ওয়ার্ড", "meaning": "শব্দ", "sentence": "Can you spell that word?", "sentence_pronunciation": "ক্যান ইউ স্পেল দ্যাট ওয়ার্ড?", "sentence_meaning": "তুমি কি ওই শব্দটি বানান করতে পারো?"},
+{"word": "work", "pronunciation": "ওয়ার্ক", "meaning": "কাজ", "sentence": "I need to work on my project.", "sentence_pronunciation": "আই নিড টু ওয়ার্ক অন মাই প্রজেক্ট", "sentence_meaning": "আমাকে আমার প্রকল্পে কাজ করতে হবে।"},
+{"word": "world", "pronunciation": "ওয়ার্ল্ড", "meaning": "বিশ্ব", "sentence": "The world is a beautiful place.", "sentence_pronunciation": "দ্য ওয়ার্ল্ড ইজ আ বিউটিফুল প্লেস", "sentence_meaning": "বিশ্বটি একটি সুন্দর স্থান।"},
+{"word": "worry", "pronunciation": "ওয়ারি", "meaning": "চিন্তা করা", "sentence": "Don't worry about the exam.", "sentence_pronunciation": "ডোন্ট ওয়ারি অ্যাবাউট দ্য এক্সাম", "sentence_meaning": "পরীক্ষা নিয়ে চিন্তা করো না।"},
+{"word": "worse", "pronunciation": "ওয়ার্স", "meaning": "খারাপ", "sentence": "Things could be worse.", "sentence_pronunciation": "থিংস কুড বি ওয়ার্স", "sentence_meaning": "কিছু খারাপ হতে পারে।"},
+{"word": "worth", "pronunciation": "ওয়ার্থ", "meaning": "মূল্য", "sentence": "This painting is worth a lot.", "sentence_pronunciation": "দিস পেইন্টিং ইজ ওয়ার্থ আ লট", "sentence_meaning": "এই চিত্রকর্মটির অনেক মূল্য আছে।"},
+{"word": "would", "pronunciation": "উড", "meaning": "হত", "sentence": "I would love to visit Paris.", "sentence_pronunciation": "আই উড লাভ টু ভিজিট প্যারিস", "sentence_meaning": "আমি প্যারিস পরিদর্শন করতে খুব ভালোবাসি।"},
+{"word": "write", "pronunciation": "রাইট", "meaning": "লেখা", "sentence": "Please write your name here.", "sentence_pronunciation": "প্লিজ রাইট ইয়োর নেম হেয়ার", "sentence_meaning": "দয়া করে তোমার নাম এখানে লিখো।"},
+{"word": "wrong", "pronunciation": "রং", "meaning": "ভুল", "sentence": "I think I took the wrong turn.", "sentence_pronunciation": "আই থিঙ্ক আই টুক দ্য রং টার্ন", "sentence_meaning": "আমি মনে করি আমি ভুল পথ নিলাম।"},
+{"word": "year", "pronunciation": "ইয়ার", "meaning": "বছর", "sentence": "This year has been challenging.", "sentence_pronunciation": "দিস ইয়ার হ্যাজ বি ইন চ্যালেঞ্জিং", "sentence_meaning": "এই বছরটি চ্যালেঞ্জিং ছিল।"},
+{"word": "yes", "pronunciation": "ইয়েস", "meaning": "হ্যাঁ", "sentence": "Yes, I agree with you.", "sentence_pronunciation": "ইয়েস, আই অ্যাগ্রি উইথ ইউ", "sentence_meaning": "হ্যাঁ, আমি তোমার সাথে একমত।"},
+{"word": "yesterday", "pronunciation": "যেস্টারডে", "meaning": "গতকাল", "sentence": "I met him yesterday.", "sentence_pronunciation": "আই মেট হিম ইয়েস্টারডে", "sentence_meaning": "আমি তাকে গতকাল দেখেছি।"},
+{"word": "yet", "pronunciation": "ইয়েট", "meaning": "এখনও", "sentence": "I haven't finished yet.", "sentence_pronunciation": "আই হ্যাভেন্ট ফিনিশড ইয়েট", "sentence_meaning": "আমি এখনও শেষ করিনি।"},
+{"word": "you", "pronunciation": "আপনি", "meaning": "আপনি", "sentence": "You are very kind.", "sentence_pronunciation": "ইউ আর ভেরি কাইন্ড", "sentence_meaning": "তুমি খুব সদয়।"},
+{"word": "young", "pronunciation": "ইয়াং", "meaning": "তরুণ", "sentence": "She is very young.", "sentence_pronunciation": "শি ইজ ভেরি ইয়াং", "sentence_meaning": "সে খুব তরুণ।"},
+{"word": "yellow", "pronunciation": "ইয়েলো", "meaning": "হলুদ", "sentence": "She wore a bright yellow dress.", "sentence_pronunciation": "শি ওর আ ব্রাইট ইয়েলো ড্রেস", "sentence_meaning": "সে একটি উজ্জ্বল হলুদ পোশাক পরেছিল।"},
 {"word": "youth", "pronunciation": "ইউথ", "meaning": "তরুণ", "sentence": "Youth is a time for exploration.", "sentence_pronunciation": "ইউথ ইজ আ টাইম ফর এক্সপ্লোরেশন", "sentence_meaning": "তরুণ বয়স একটি অনুসন্ধানের সময়।"},
 
   ]
